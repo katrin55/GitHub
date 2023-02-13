@@ -1,0 +1,23 @@
+<skills>
+      <first>The theory of software testing</first>
+      <second>Client server arhitecture</second>
+      <third>Structures of HTTP requests and responses</third>
+      <fourth>Structure of JSON, XML formats</fourth>
+      <fifth>API testing with Postman (JS, API autotests)</fifth>
+      <sixth>Removing and reading logs from an external server</sixth>
+      <seventh>Sniffing http web traffic with Charles and Fiddler</seventh>
+      <eighth>Dev Tools of web browsers Google Chrome and FireFox</eighth>
+      <ninth>VPN</ninth>
+      <tenth>Mobile testing</tenth>
+      <eleventh>Building Android Applications with Android Studio</eleventh>
+      <twelve>ADB</twelve>
+      <thirteen>Setting up proxy and vpn on iOS and Android</thirteen>
+      <fourteen>Intercepting mobile traffic with Charles and Fiddler</fourteen>
+      <fifteen>Linux terminal</fifteen>
+      <sixteen>Access to remote servers</sixteen>
+      <seventeen>SQL Basics. Create, Delete, Drop, Insert Into, Select, From, Where, Join</seventeen>
+      <eighteen>Postgres database</eighteen>
+      <nineteen>Redis non-relational database</nineteen>
+      <twenty>Load Testing with Jmeter</twenty>
+</skills>
+
