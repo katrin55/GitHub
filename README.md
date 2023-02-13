@@ -88,14 +88,14 @@ Skills:
 13. Отправить сразу 2 файла на внешний репозиторий. \
 `git push`
 
-OBOBOB14. На веб интерфейсе создать файл bug_report.txt.
+OB14. На веб интерфейсе создать файл bug_report.txt.
 - в репозитории нажимаем на кнопку `Add file`, далее `Create new file`
 - в названии ввести `bug_report.txt`
 
 15. Сделать Commit changes (сохранить) изменения на веб интерфейсе. \
  нажать кнопку `Commit new file`
 
-OBOBOB16. На веб интерфейсе модифицировать файл bug_report.txt, добавить баг репорт в формате TXT.
+OB16. На веб интерфейсе модифицировать файл bug_report.txt, добавить баг репорт в формате TXT.
 - в файл bug_report.txt добавить:
 ```
 Sammary : Application crash on clicking the SAVE button while creating a new user
@@ -103,7 +103,7 @@ Reported_by : Ekaterina U
 Build Number : Version Number 5.0.1
 Enviroment : Windows 7, Chrome 31.0.1650.63 m
 Severity : HIGH
-OBOBOBPriority : HIGH
+Priority : HIGH
 Description : Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user
 
 Steps to Reproduce :
@@ -119,7 +119,6 @@ Expected Result : On clicking the SAVE button you should be prompted to a succes
 ```
 17. Сделать Commit changes (сохранить) изменения на веб интерфейсе. \
 - нажать кнопку `Commit new file`
-OBOBOB
 18. Синхронизировать внешний и локальный репозиторий TXT. \
 - в терминале GitBash ввести `git pull`
 
