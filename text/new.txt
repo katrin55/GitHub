@@ -1,4 +1,4 @@
-name - Uglovskaia Ekaterina Evgenevna
+name - 'Uglovskaia Ekaterina Evgenevna'
 age - 25 
 pets - 0
 futureSalary - 50000
